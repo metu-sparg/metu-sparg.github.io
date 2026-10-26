@@ -120,7 +120,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:23318422
-  title: ''
+  title: Making sure you're not a bot!
   authors: []
   publisher: ''
   date: ''
@@ -545,7 +545,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:22265147
-  title: ''
+  title: Making sure you're not a bot!
   authors: []
   publisher: ''
   date: ''
@@ -641,7 +641,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:16101928
-  title: ''
+  title: Making sure you're not a bot!
   authors: []
   publisher: ''
   date: ''
@@ -659,7 +659,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:15206149
-  title: ''
+  title: Making sure you're not a bot!
   authors: []
   publisher: ''
   date: ''
